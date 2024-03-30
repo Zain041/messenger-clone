@@ -1,4 +1,5 @@
 import EmptyState from "../components/input/EmptyState";
+import Sidebar from "../components/sidebar/Sidebar";
 
 const Users = () => {
   return (
